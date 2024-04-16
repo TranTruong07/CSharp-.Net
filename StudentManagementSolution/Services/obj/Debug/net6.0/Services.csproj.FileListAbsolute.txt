@@ -1,0 +1,16 @@
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\bin\Debug\net6.0\Services.deps.json
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\bin\Debug\net6.0\Services.dll
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\bin\Debug\net6.0\Services.pdb
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\bin\Debug\net6.0\Repositories.dll
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\bin\Debug\net6.0\Repositories.pdb
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.sourcelink.json
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.dll
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\Services.pdb
+D:\Workspase\C#_Visual_Studio\StudentManagementSolution\Services\obj\Debug\net6.0\ref\Services.dll
